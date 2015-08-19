@@ -28,7 +28,6 @@ namespace CSExercises
             }
             fare = Convert.ToDouble(f3 / 10);
             Console.WriteLine("The fare is:+fare");
-
-        }
-    }
-}
+           }
+       }
+  }
